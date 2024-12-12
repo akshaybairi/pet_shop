@@ -80,8 +80,7 @@
         <project>
     <distributionManagement>
         <repository>
-            <id>releases</id>
-            <name>Releases Repository</name>
+            <id>nexus-releases</id>
             <url>http://3.109.183.216:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
